@@ -92,7 +92,7 @@ nav li {
 }
 
 #section-one-container {
-    background-image: url(./Images/friends.jpg);
+    background-image: url(./images/friends.png);
     height: 740px;
 }
 
@@ -240,7 +240,7 @@ form button {
 }
 
 #section-five {
-    background-image: url(./Images/darkdesk.png);
+    background-image: url(./images/darkdesk.png);
     background-position: 50% 50%;
 }
 
@@ -331,7 +331,7 @@ form button {
 }
 
 footer {
-    background-image: url(./Images/footerbg.png);
+    background-image: url(./images/footerbg.png);
     height: 500px;
     clear: both;
     background-position: 50% 50%;
