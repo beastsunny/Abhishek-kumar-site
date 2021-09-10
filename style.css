@@ -91,9 +91,16 @@ nav li {
     height: 80px;
 }
 
+form {
+    padding-bottom: 1rem;
+}
+
 #section-one-container {
     background-image: url(./images/friends.png);
-    height: 740px;
+    background-position: center;
+    flex: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #section-one {
